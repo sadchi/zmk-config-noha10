@@ -1,0 +1,10 @@
+file_format: "1"
+id: noha10
+name: noha10
+url: https://github.com/sadchi/noha10
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
