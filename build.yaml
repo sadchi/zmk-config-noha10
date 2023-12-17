@@ -13,8 +13,6 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_rp2040
-    shield: hummingbird
-include:
-  - board: seeeduino_xiao_rp2040
-    shield: hummingbird
+  - board: rpi_pico
+    shield: noha10
+

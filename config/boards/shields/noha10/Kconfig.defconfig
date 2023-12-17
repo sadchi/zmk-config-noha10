@@ -1,0 +1,16 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+if SHIELD_NOHA10
+
+config ZMK_KEYBOARD_NAME
+	default "noha10"
+	
+endif
+
+
+
+config ZMK_SPLIT
+	default n
+
+
